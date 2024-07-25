@@ -12,8 +12,9 @@
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif">
 -->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JaredThacker)](https://git.io/streak-stats)
 
+<p align="center">
+    <img src ="https://streak-stats.demolab.com/?user=JaredThacker">
 <p align="center">
     <a href="https://www.codewars.com/users/jaydeetee97" style="text-decoration:none;">
         <img src="https://www.codewars.com/users/jaydeetee97/badges/micro">
