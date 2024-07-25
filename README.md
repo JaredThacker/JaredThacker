@@ -22,10 +22,15 @@
     <a href="https://www.linkedin.com/in/jaredthacker97/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 
-<p align="center">
 
+<div align="center">
+    <a href="https://discord.com/users/692872740662673441">
+        <img src="https://lanyard-profile-readme.vercel.app/api/692872740662673441?theme=dark&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Away...">
+
+
+<!--
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/692872740662673441?theme=dark&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Away...)](https://discord.com/users/692872740662673441)
-
+-->
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaredThacker&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
