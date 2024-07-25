@@ -14,7 +14,7 @@
 
 
 <p align="center">
-    <img src ="https://streak-stats.demolab.com/?user=JaredThacker&theme=highcontrast">
+    <img src ="https://streak-stats.demolab.com/?user=JaredThacker&theme=tokyonight">
 <p align="center">
     <a href="https://www.codewars.com/users/jaydeetee97" style="text-decoration:none;">
         <img src="https://www.codewars.com/users/jaydeetee97/badges/micro">
