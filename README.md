@@ -21,6 +21,8 @@
         <img src="https://lanyard.cnrad.dev/api/692872740662673441">
 
 <p align="center">
+
+<p align="center">
     <a href="https://www.codewars.com/users/jaydeetee97" style="text-decoration:none;">
         <img src="https://www.codewars.com/users/jaydeetee97/badges/micro">
 <p align="center">
