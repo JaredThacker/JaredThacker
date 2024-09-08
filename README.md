@@ -25,29 +25,29 @@ p<!--
 <p align="center">
     <a href="https://www.linkedin.com/in/jaredthacker97/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> -->
-<!-- <p align="center" className="gap-3">
-    <a href="https://leetcode.com/u/jaydeetee97/">
+
+<p align="center" className="gap-3">
+    <!-- <a href="https://leetcode.com/u/jaydeetee97/">
         <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
-    </a>
+    </a> -->
     <a href="https://www.codewars.com/users/jaydeetee97" style="text-decoration:none;">
         <img src="https://www.codewars.com/users/jaydeetee97/badges/micro">
     </a>
-    <a href="https://www.hackerrank.com/profile/pricesmayvary302">
+    <!-- <a href="https://www.hackerrank.com/profile/pricesmayvary302">
         <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HackerRank/hackerrank2.svg" width="110">
-    </a>
-</p> -->
+    </a> -->
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://www.codewars.com/users/jaydeetee97" style="text-decoration:none;">
-        <img src="https://www.codewars.com/users/jaydeetee97/badges/micro">
+        <img src="https://www.codewars.com/users/jaydeetee97/badges/micro"> -->
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://leetcode.com/u/jaydeetee97/">
-        <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
+        <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"> -->
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://www.hackerrank.com/profile/pricesmayvary302">
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HackerRank/hackerrank2.svg" width="110">
+        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HackerRank/hackerrank2.svg" width="110"> -->
 
 <!--
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/692872740662673441?theme=dark&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Away...)](https://discord.com/users/692872740662673441)
