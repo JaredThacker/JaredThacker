@@ -1,4 +1,4 @@
-p<!--
+<!--
 <img src="https://widgetbite.com/banner?title=Jared%20Thacker&subtitle=Aspiring%20Software%20Engineer&backgroundpalette=twilight&fontpalette=twilight&titletransform=none&subtitletransform=skew" width=100% height=100%/>
 -->
 
