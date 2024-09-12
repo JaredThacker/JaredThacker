@@ -26,17 +26,11 @@
     <a href="https://www.linkedin.com/in/jaredthacker97/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> -->
 
-<p align="center">
-  <a href="https://www.codewars.com/users/jaydeetee97">
-    <img src="https://www.codewars.com/users/jaydeetee97/badges/micro" alt="Codewars Badge" style="margin-right: 30px;">
-  </a>
-  <a href="https://leetcode.com/u/jaydeetee97/">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="20" alt="LeetCode Badge" style="margin-right: 30px;">
-  </a>
-  <a href="https://www.hackerrank.com/profile/pricesmayvary302">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HackerRank/hackerrank2.svg" width="110" alt="HackerRank Badge">
-  </a>
-</p>
+<div class="flex-container "style="display: flex; flex-direction: row; justify-content: center;" className="gap-3">
+    <div style="margin-bottom: 30px"><a href="https://www.codewars.com/users/jaydeetee97" style="text-decoration:none;"><img src="https://www.codewars.com/users/jaydeetee97/badges/micro"></a></div>
+    <div><a href="https://leetcode.com/u/jaydeetee97/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="20"></a></div>
+    <div style="margin-top: 30px"><a href="https://www.hackerrank.com/profile/pricesmayvary302"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HackerRank/hackerrank2.svg" width="110"></a></div>
+</div>
 
 <!-- <p align="center">
     <a href="https://www.codewars.com/users/jaydeetee97" style="text-decoration:none;">
