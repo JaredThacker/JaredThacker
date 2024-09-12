@@ -26,10 +26,10 @@
     <a href="https://www.linkedin.com/in/jaredthacker97/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> -->
 
-<div class="flex-container "style="display: flex; flex-direction: row; justify-content: center;" className="gap-3">
-    <div style="margin-bottom: 30px"><a href="https://www.codewars.com/users/jaydeetee97" style="text-decoration:none;"><img src="https://www.codewars.com/users/jaydeetee97/badges/micro"></a></div>
+<div style="display: flex; justify-content: center;" className="gap-3">
+    <div style="margin-right: 30px"><a href="https://www.codewars.com/users/jaydeetee97" style="text-decoration:none;"><img src="https://www.codewars.com/users/jaydeetee97/badges/micro"></a></div>
     <div><a href="https://leetcode.com/u/jaydeetee97/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="20"></a></div>
-    <div style="margin-top: 30px"><a href="https://www.hackerrank.com/profile/pricesmayvary302"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HackerRank/hackerrank2.svg" width="110"></a></div>
+    <div style="margin-left: 30px"><a href="https://www.hackerrank.com/profile/pricesmayvary302"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HackerRank/hackerrank2.svg" width="110"></a></div>
 </div>
 
 <!-- <p align="center">
