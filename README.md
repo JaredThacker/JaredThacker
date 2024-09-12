@@ -26,7 +26,7 @@
     <a href="https://www.linkedin.com/in/jaredthacker97/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> -->
 
-<p align="center" className="gap-3">
+<div align="center" style="display: flex; justify-content: center; gap: 20px;" className="gap-3">
     <a href="https://www.codewars.com/users/jaydeetee97" style="text-decoration:none;">
         <img src="https://www.codewars.com/users/jaydeetee97/badges/micro">
     </a>
@@ -36,7 +36,7 @@
     <a href="https://www.hackerrank.com/profile/pricesmayvary302">
         <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HackerRank/hackerrank2.svg" width="110">
     </a>
-</p>
+</div>
 
 <!-- <p align="center">
     <a href="https://www.codewars.com/users/jaydeetee97" style="text-decoration:none;">
