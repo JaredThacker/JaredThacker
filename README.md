@@ -36,6 +36,7 @@
     <a href="https://www.hackerrank.com/profile/pricesmayvary302">
         <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HackerRank/hackerrank2.svg" width="110">
     </a>
+</p>
 
 <!-- <p align="center">
     <a href="https://www.codewars.com/users/jaydeetee97" style="text-decoration:none;">
