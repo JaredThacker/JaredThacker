@@ -26,7 +26,7 @@
     <a href="https://www.linkedin.com/in/jaredthacker97/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> -->
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;" className="gap-3">
+<div style="display: flex; justify-content: center; gap: 30px;" className="gap-3">
     <a href="https://www.codewars.com/users/jaydeetee97" style="text-decoration:none;">
         <img src="https://www.codewars.com/users/jaydeetee97/badges/micro">
     </a>
